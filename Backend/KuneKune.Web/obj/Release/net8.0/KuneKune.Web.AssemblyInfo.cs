@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KuneKune.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78773a28b14998af91196c7203e144eca6587820")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706c59cf869cdf0aeb0158d91bc4cb11342a6e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KuneKune.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KuneKune.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
