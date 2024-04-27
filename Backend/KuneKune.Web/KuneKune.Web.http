@@ -1,0 +1,6 @@
+@KuneKune.Web_HostAddress = http://localhost:5106
+
+GET {{KuneKune.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
