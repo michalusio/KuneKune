@@ -1,5 +1,5 @@
-﻿// import styles from './../Moduels/Banner.module.scss';
-import styles from './../Moduels/Button.module.scss'
+﻿import styles from './Banner.module.scss';
+import React from 'react';
 
 const Banner = () => {
     return (
