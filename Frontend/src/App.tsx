@@ -1,6 +1,6 @@
 import './App.css'
 import Banner from './Components/Banner/Banner'
-import React from 'react';
+// import React from 'react';
 
 
 function App() {
@@ -8,7 +8,6 @@ function App() {
   return (
     <>
       <Banner />
-
     </>
   )
 }

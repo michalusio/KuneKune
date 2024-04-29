@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import styles from './Button.module.scss';
 
 const Button = ({ children, onClick }: { children: ReactNode, onClick: () => void }) => {
