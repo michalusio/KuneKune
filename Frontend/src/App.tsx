@@ -8,6 +8,29 @@ function App() {
   return (
     <>
       <Banner />
+      <br />
+      <p>more text bla bla bla</p>
+
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <p>more text bla bla bla</p>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <p>more text bla bla bla so the scroll appears</p>
+
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </>
   )
 }

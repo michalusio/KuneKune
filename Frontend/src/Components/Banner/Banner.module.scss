@@ -1,27 +1,34 @@
-﻿
-  .containerKeepingH1H2andButtonComponent {
-    color: rgb(255, 255, 255);
-    text-align: center;
-    align-items: baseline;
-    position: relative;
-    right: 250px;
-    h1 {
-        font-size: 3.5rem;
-    }
-  }
+﻿.containerHoldingImageAsBackground {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../src/assets/Piggies.jpg");
+  background-position: center;
+  background-size: cover;
 
-  .containerHoldingImageAsBackground {
-    width: 100%;
-    height: 50vh;
-    background-image: url("../src/assets/Piggies.jpg");
-    background-position: center;
-    background-size: contain; 
-}
-.containerGivingTheBackgroundThisBlackShade {
+  .containerGivingTheBackgroundThisBlackShade {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.3);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
+
+    .containerKeepingH1H2andButtonComponent {
+      color: rgb(255, 255, 255);
+      text-align: left;
+      margin-left: 200px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      align-items: start;
+
+      h1 {
+        font-size: 3.5rem;
+      }
+    }
+  }
+}
+
+.limitedButton {
+  width: 240px;
 }
