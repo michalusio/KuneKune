@@ -1,0 +1,14 @@
+﻿body {
+    .button {
+        padding: 10px 20px;
+        background-color: transparent;
+        color: #fafafa;
+        border: 2px solid #ffffff;
+        border-radius: 0px;
+        cursor: pointer;
+
+        &:hover {
+            background-color: transparent;
+        }
+    }
+}
