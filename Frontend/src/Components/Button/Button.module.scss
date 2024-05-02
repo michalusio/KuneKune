@@ -1,14 +1,42 @@
-﻿body {
+﻿ body {
     .button {
-        padding: 10px 20px;
-        background-color: transparent;
-        color: #fafafa;
-        border: 2px solid #ffffff;
-        border-radius: 0px;
-        cursor: pointer;
+        
+        // padding: 10px 20px;
+        // background-color: transparent;
+        // color: #fafafa;
+        // border: 2px solid #ffffff;
+        // border-radius: 0px;
+        // cursor: pointer;
 
-        &:hover {
-            background-color: transparent;
-        }
+        // &:hover {
+        //     background-color: transparent;
+        // }
     }
 }
+
+// .btn {
+//     outline-color: transparent;
+//     border: 2px;
+//     cursor: pointer;
+//     padding: 3.8em 1.5em;
+//     border-radius: 10px;
+//     transition: all 0.2s;
+// }
+// .primary {
+//     background-color: rgb(0, 0, 0);
+//     color:#ffffff;
+
+//     &:hover {
+//         background-color: transparent;
+//     }
+
+// }
+// .secondary
+// {
+//     background-color: rgb(255, 0, 0);
+//     color:#ffffff;
+
+//     &:hover {
+//         background-color: transparent;
+//     }
+// }

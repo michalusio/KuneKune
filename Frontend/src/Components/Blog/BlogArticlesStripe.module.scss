@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+
+    
+  }
+  
+  .blogArticle {
+    flex: 1; // this is to know that flex is here
+    padding: 2px;
+  }

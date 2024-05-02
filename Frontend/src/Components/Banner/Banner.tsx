@@ -1,5 +1,6 @@
-﻿import styles from './Banner.module.scss';
-import Button from '../Button/Button';
+﻿import Button from '../Button/Button';
+import styles from './Banner.module.scss';
+// import { BUTTON_VARIANTS } from '../Button/enums';
 // import React from 'react';
 
 const Banner = () => {
@@ -10,6 +11,7 @@ const Banner = () => {
                     <h1>Round And Fat</h1>
                     <p>No, we are not fatshain them. Kune kune means exactly that in the lanaguage of maro!!!</p>
                     <Button extraClass={styles.limitedButton} onClick={() => console.log("Button clicked")}>Find out why</Button>
+                    {/* <Button variant={BUTTON_VARIANTS.Primary}> Click me!</Button> */}
                     <p> Join live feed </p>
                 </div>
             </div>
