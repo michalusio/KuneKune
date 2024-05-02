@@ -1,0 +1,35 @@
+.blogImageContainer {
+  width: 50%;
+  height: 65vh;
+  background-image: url("../src/assets/Piggies.jpg");
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.blogTextAboveImage
+{
+  text-align: center;
+  padding: 1rem;
+  h3{
+  color: rgb(168, 168, 189);
+  }
+}
+
+  .blogContainerHoldingText{
+    text-align: center; 
+    padding: 1rem; 
+    max-width: 50%;
+    margin: 0 auto;
+  }
+
+  .blogButton {
+    background-color: #333;
+    width: 340px;
+    color: #f10e0e;
+    border: 4px;
+    border-color: #333;
+    padding: 10px 20px; 
+  }
+ 

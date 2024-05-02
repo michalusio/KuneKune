@@ -1,5 +1,6 @@
 import './App.css'
 import Banner from './Components/Banner/Banner'
+import BlogArticlesStripes from './Components/Blog/BlogArticlesStripe'
 // import React from 'react';
 
 
@@ -9,14 +10,13 @@ function App() {
     <>
       <Banner />
       <br />
-      <p>more text bla bla bla</p>
-
       <br />
       <br />
       <br />
       <br />
       <br />
       <br />
+      <BlogArticlesStripes />
       <p>more text bla bla bla</p>
       <br />
       <br />
