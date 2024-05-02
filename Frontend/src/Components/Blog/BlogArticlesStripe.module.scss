@@ -1,10 +1,12 @@
 .container {
     display: flex;
-    flex-direction: column;
-    gap: 20px;
+    flex-direction: row;
+    gap: 30px;
+
+    
   }
   
   .blogArticle {
     flex: 1; // this is to know that flex is here
-    padding: 10px;
+    padding: 2px;
   }

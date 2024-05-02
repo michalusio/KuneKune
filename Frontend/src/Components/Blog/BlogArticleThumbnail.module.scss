@@ -1,12 +1,11 @@
 .blogImageContainer {
-  width: 50%;
+  width: 100%;
   height: 65vh;
   background-image: url("../src/assets/Piggies.jpg");
   background-position: center;
   background-size: cover;
-  margin: 0 auto;
   display: flex;
-  flex-direction: column;
+  gap: 8px;
 }
 .blogTextAboveImage
 {
@@ -20,16 +19,18 @@
   .blogContainerHoldingText{
     text-align: center; 
     padding: 1rem; 
-    max-width: 50%;
+    max-width: 100%;
     margin: 0 auto;
   }
 
   .blogButton {
-    background-color: #333;
+    background-color: transparent;
     width: 340px;
-    color: #f10e0e;
-    border: 4px;
-    border-color: #333;
+    color: #e25f5f;
+    border-color: #e25f5f;
     padding: 10px 20px; 
+    letter-spacing: 4px;
+    font-size: 20px;
+    
   }
  

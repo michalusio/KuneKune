@@ -1,4 +1,4 @@
-import styles from "./BlogArticlesStripe.module.scss"; 
+import styles from "./BlogArticlesStripe.module.scss";
 import BlogArticle from "./BlogArticleThumbnail";
 
 

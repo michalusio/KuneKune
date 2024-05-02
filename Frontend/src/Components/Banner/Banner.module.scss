@@ -30,11 +30,15 @@
 }
 
 .limitedButton {
+width: 240px;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #fafafa;
+  border: 2px solid #ffffff;
+  border-radius: 0px;
+  cursor: pointer;
 
-  background-color: #333;
-    width: 340px;
-    color: #f10e0e;
-    border: 4px;
-    border-color: #333;
-    padding: 10px 20px; 
+  &:hover {
+  background-color: transparent;
+  }
 }
